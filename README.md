@@ -1,6 +1,10 @@
 # README #
 (GENE-IS_1.0)
 
+Old Repository Link; https://github.com/G100DKFZ/gene-is
+
+Published Research Article; https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531(16)30363-8
+
 GENE-IS is a pipeline for the extraction of integration sites from next-generation sequencing data of clinical and preclinical gene therapy studies.
 It is specifically designed in order to accept the sequencing reads originated from different protocols like LAM (linear amplification mediated) PCR and Targeted Sequencing (SureSelect/AGILENT) methods.
 
@@ -116,5 +120,5 @@ $GENIS/configFile_targetedSequencing_pairedEnd.txt
 
 ### Contacts ###
 
-* Contact: raffaele.fronza@nct-heidelberg.de
-* Contact: saira.afzal@nct-heidelberg.de
+* Contact: saira.afzal@genewerk.de
+
