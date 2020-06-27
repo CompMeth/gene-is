@@ -1,7 +1,7 @@
 # README #
 (GENE-IS_1.0)
 
-Old Repository Link; https://github.com/G100DKFZ/gene-is
+My Old Repository Link for GENE-IS_1.0 version; https://github.com/G100DKFZ/gene-is 
 
 Published Research Article; https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531(16)30363-8
 
