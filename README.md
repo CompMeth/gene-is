@@ -3,7 +3,7 @@
 
 My Old Repository Link for GENE-IS_1.0 version; https://github.com/G100DKFZ/gene-is 
 
-Please cite the research article, if you use GENE-IS: Saira Afzal et al., 2017. GENE-IS: Time-Efficient and Accurate Analysis of Viral Integration Events in Large-Scale Gene Therapy Data. Mol. Ther. Nucleic Acids 6, 133–139.. Molecular Therapy - Nucleic Acids. DOI; DOI:https://doi.org/10.1016/j.omtn.2016.12.001
+Please cite the research article, if you use GENE-IS: Saira Afzal et al., 2017. GENE-IS: Time-Efficient and Accurate Analysis of Viral Integration Events in Large-Scale Gene Therapy Data. Mol. Ther. Nucleic Acids 6, 133–139.. Molecular Therapy - Nucleic Acids. DOI:https://doi.org/10.1016/j.omtn.2016.12.001
 #
 #
 GENE-IS is a pipeline for the extraction of integration sites from next-generation sequencing data of clinical and preclinical gene therapy studies.
